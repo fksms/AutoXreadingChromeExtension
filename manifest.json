@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "AutoXreading",
+    "version": "1.0",
+    "description": "Xreading自動化ツール",
+    "icons": {
+        "128": "images/icon128.png"
+    },
+    "browser_action": {
+        "default_icon": "images/icon128.png",
+        "default_title": "AutoXreading",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs",
+        "https://xreading.com/"
+    ]
+}

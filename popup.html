@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="popup.css">
+    <script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="popup.js"></script>
+</head>
+
+<body>
+    <div style="text-align:center;">
+        <div name="title">
+            <h2>Xreading自動化ツール</h2>
+        </div>
+        <hr>
+        <div name="delay">
+            <h3>読書時間稼ぎ</h3>
+            <p>開くタブの数：
+                <input type="text" id="delay_arg_1" size="5" value="60"></p>
+            <p>待機時間[sec]：
+                <input type="text" id="delay_arg_2" size="5" value="100"></p>
+            <br>
+            <button type="button" class="button_1" id="exec_delay">実行</button>
+            <br>
+            <br>
+        </div>
+        <hr>
+        <div name="skip">
+            <h3>最後まで読み飛ばし</h3>
+            <p>（オプション）</p>
+            <p>ページ送り間隔[sec]：
+                <input type="text" id="skip_arg_1" size="5" value="1"></p>
+            <br>
+            <button type="button" class="button_1" id="exec_skip">実行</button>
+            <br>
+            <br>
+        </div>
+        <hr>
+        <div name="solve">
+            <h3>自動解答</h3>
+            <p>（オプション）</p>
+            <p>開くタブの数：
+                <input type="text" id="solve_arg_1" size="5" value="10"></p>
+            <br>
+            <button type="button" class="button_1" id="exec_solve">実行</button>
+            <br>
+            <br>
+        </div>
+        <hr>
+        <div name="footer">
+            <br>
+            <button type="button" class="button_2" id="go_github">使い方・報告</button>
+            <br>
+            <br>
+        </div>
+    </div>
+</body>
+
+</html>

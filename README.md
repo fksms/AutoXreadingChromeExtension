@@ -54,3 +54,7 @@ Reading画面で、最後まで読み飛ばしの実行ボタンを押してく�
 Quiz画面で、自動解答の実行ボタンを押してください。設定数のタブが生成されます。一定時間経過後、タブが自動的に閉じるので何も触らず待機してください。<br><br>
 <img src="https://github.com/daianjibetu/Images/blob/master/AutoXreadingChromeExtension/j.PNG" width="1000">
 <br><br><br>
+
+
+## 現時点での問題
+Issuesを見てください。

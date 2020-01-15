@@ -3,8 +3,7 @@
 <br>
 
 ## 準備
-通信環境が良好な場所でツールを使用してください。<br>
-また、xreading.comからのポップアップを許可しておきましょう。<br><br><br>
+通信環境が良好な場所でツールを使用してください。<br><br><br>
 
 まず、「Clone or download」から「Download ZIP」を押してツールをダウンロードしましょう。<br>
 フォルダが消えるとツールが機能しなくなるので、デスクトップ等に移動してください。<br><br>
@@ -29,10 +28,29 @@ Chrome拡張機能の管理画面の右上にある「デベロッパーモー�
 <img src="https://github.com/daianjibetu/Images/blob/master/AutoXreadingChromeExtension/g.PNG" width="1000">
 <br><br><br>
 
-自動化ツール読み込み後は、「デベロッパーモード」を無効にしておきましょう。<br><br>
+自動化ツール読み込み後は、セキュリティ上の観点から「デベロッパーモード」を無効にしておきましょう。<br><br>
 <img src="https://github.com/daianjibetu/Images/blob/master/AutoXreadingChromeExtension/d.PNG" width="150">
 <br><br><br>
 
 画面右上に自動化ツールのボタンが出現します。<br><br>
 <img src="https://github.com/daianjibetu/Images/blob/master/AutoXreadingChromeExtension/h.PNG" width="300">
-<br><br>
+<br><br><br>
+
+
+## 読書時間稼ぎ
+Reading画面で、読書時間稼ぎの実行ボタンを押してください。設定数のタブが生成されます。設定時間経過後、タブが自動的に閉じるので何も触らず待機してください。<br><br>
+読書時間の調整には「開くタブの数」と「待機時間」を調整してください。<br><br>
+<img src="https://github.com/daianjibetu/Images/blob/master/AutoXreadingChromeExtension/i.PNG" width="1000">
+<br><br><br>
+
+
+## 最後まで読み飛ばし
+Reading画面で、最後まで読み飛ばしの実行ボタンを押してください。ページを自動的に送ります。最終ページになるまで待機してください。<br><br>
+<img src="https://github.com/daianjibetu/Images/blob/master/AutoXreadingChromeExtension/i.PNG" width="1000">
+<br><br><br>
+
+
+## 自動解答
+Quiz画面で、自動解答の実行ボタンを押してください。設定数のタブが生成されます。一定時間経過後、タブが自動的に閉じるので何も触らず待機してください。<br><br>
+<img src="https://github.com/daianjibetu/Images/blob/master/AutoXreadingChromeExtension/j.PNG" width="1000">
+<br><br><br>
